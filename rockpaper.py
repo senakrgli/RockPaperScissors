@@ -26,4 +26,6 @@ if user_cho==2:
     elif pc_cho == 2:
         print("tie")
 
+else:
+    print("wrong input")
 
